@@ -1,6 +1,8 @@
 # Social Media Analysis using Python
 
-This is a SaaS application built to analyze social media data from Reddit and Twitter. It performs trend analysis, sentiment analysis, and classification on user-defined keywords or topics. The platform also offers Q&A functionality using language models (LLMs) to provide insights from the collected data.
+Social media analysis allows brands and organizations to gauge public sentiment and emotional responses in real time, helping them adapt strategies to meet audience expectations and address concerns quickly. By tracking trending topics and discussions, companies can spot emerging market trends and capitalize on them early, gaining a competitive advantage and aligning with consumer interests. Analyzing posts related to pain points or questions helps businesses identify common customer issues and areas for improvement, enabling proactive support, enhancing product development, and improving overall customer satisfaction.
+
+This is a SaaS application built to analyze social media data from Reddit and Twitter. It allows users to perform trend analysis, sentiment analysis, and classification on user-defined keywords or topics. The platform also offers Q&A functionality using language models (LLMs) to provide insights from the collected data.
 
 ## Architecture Overview
 
